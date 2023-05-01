@@ -70,7 +70,7 @@ export function Home() {
         )}
         ListEmptyComponent={() => (
           <Text style={styles.listEmptyText}>
-            Nenhum participante cadastrado! Adcione participantes a sua lista de
+            Nenhum participante cadastrado! Adicione participantes a sua lista de
             presença.
           </Text>
         )}
